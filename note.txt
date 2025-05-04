@@ -1,18 +1,23 @@
 Choosing inputs and structure for neural networks
 	- Discussed specific algorithm to choose the best features for mlp neural net, extremely usefull if implementable in rapid miner
+
 Data mining techniques in customer churn prediction
 	- Mainly discussed churn prediction
 	- Neural net and decision tree are the most frequently used
 	- Combining models often yield better results
 	- Main data preprocessing methods are feature selection and dimensionality reduction
+
 Applying data mining to telecom churn management
 	- Mainly discussed churn prediction
 	- Outlining their process of building the model, which can be helpful
 	- Found that neural net performed better than decision tree
+
 Improving customer loyalty evaluation methods in the grocery retail industry: a data mining approach
 	- Mainly discussed churn prediction
 	- Found that adding delivery and discount information improved accuracy
+
 Direct marketing decision support through predictive customer response modeling
 	- Discussed segmenting customers for targeted marketing
 	- Dataset is purchases from catalog sales and donations, which is somewhat similar to ours
 	- While neural net was very effective, decision tree was the best model due to low dimensional dataset
+
